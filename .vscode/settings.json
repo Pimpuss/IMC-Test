@@ -1,0 +1,13 @@
+{
+    "editor.guides.bracketPairs": "active",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairsHorizontal": "active",
+    "editor.guides.highlightActiveBracketPair": true,
+    "editor.language.brackets": [
+
+    
+    ],
+    "editor.language.colorizedBracketPairs": [
+    ]
+}
